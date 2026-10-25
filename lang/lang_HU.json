@@ -1,0 +1,36 @@
+{
+  "title": "Fülöp Tamás basszusgitáros",
+  "hero": {
+    "name": "Fülöp Tamás",
+    "role": "groovy, danceable bass covers",
+    "artist": "groove eftomi"
+  },
+  "home": "Nyitólap",
+  "about": {
+    "title": "Magamról",
+    "text": "2015-ben kezdtem el dobolni, és 2020-ig játszottam a hangszeren. 2018-ban megalapítottuk a <strong>Moonshiners</strong> zenekart, amely rock- és bluesfeldolgozásokra fókuszált. A rendszeres próbák során fejlődött a ritmus- és tempóérzékem, valamint a zenekari játékban szerzett gyakorlatom. 2024-ben kezdtem el basszusgitározni, erre az alapra építve.<br><br>Részletek a zenekarunk repertoárjából:",
+    "figcaption01": "Hobo Blues Band - Tobacco Road <small>(feldolgozás - próbatermi demo)</small>",
+    "figcaption02": "P.Box - A Zöld A Bíbor És A Fekete <small>(feldolgozás - próbatermi demo)</small>"
+  },
+"portfolio": {
+    "title": "Zenei portfólió",
+    "text": "Autodidakta módon kezdtem el basszusgitározni és azóta folyamatosan fejlesztem a játéktudásomat. A játékstílusom főként a groove-os, táncolható dalokra épül, amelyekben a basszus lüktetése és a ritmikai alap megteremtése különösen fontos szerepet kap. Olyan számokat választok és tanulok meg, amelyekben a basszus kreatívan, mégis szolgáló módon támogatja a dalt.<br><br>A portfólió célja, hogy bemutassa a zenei irányultságomat és fejlődési utamat, valamint hogy a jövőben egy hasonló stílusú zenekarban basszusgitárosként találjak helyet magamnak.",
+    "figcaption01": "Ben E. King – Stand By Me (Bass Cover by eftomi)",
+    "description01": "01Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus maximus, purus quis fringilla porttitor, nunc tortor egestas tortor, et commodo purus dui vel sapien. Pellentesque justo nulla, sagittis eget urna ut, scelerisque egestas nunc. Etiam tristique sapien a pharetra vulputate. Sed eget odio vel tellus scelerisque porttitor id nec tortor. Donec iaculis a nisl non faucibus. Maecenas tincidunt mattis velit, non aliquet dolor venenatis efficitur.",
+    "figcaption02": "James Brown - I Got You (Bass Cover by eftomi)",
+    "description02": "02Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus maximus, purus quis fringilla porttitor, nunc tortor egestas tortor, et commodo purus dui vel sapien. Pellentesque justo nulla, sagittis eget urna ut, scelerisque egestas nunc. Etiam tristique sapien a pharetra vulputate. Sed eget odio vel tellus scelerisque porttitor id nec tortor. Donec iaculis a nisl non faucibus. Maecenas tincidunt mattis velit, non aliquet dolor venenatis efficitur.",
+    "figcaption03": "Queen - Crazy Little Thing Called Love (Bass Cover by eftomi)",
+    "description03": "03Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus maximus, purus quis fringilla porttitor, nunc tortor egestas tortor, et commodo purus dui vel sapien. Pellentesque justo nulla, sagittis eget urna ut, scelerisque egestas nunc. Etiam tristique sapien a pharetra vulputate. Sed eget odio vel tellus scelerisque porttitor id nec tortor. Donec iaculis a nisl non faucibus. Maecenas tincidunt mattis velit, non aliquet dolor venenatis efficitur."
+  },
+"contact": {
+    "title": "Kapcsolatok",
+    "text": "Az <a href=\"https://www.instagram.com/groove.eftomi/\" target=\"_blank\" title=\"Látogass el az Instagram-profilomra\"><strong>Instagram</strong></a>-profilomon a zenéléshez és basszusgitározáshoz kapcsolódó pillanatokat találsz.<br>A <a href=\"https://soundcloud.com/groove-eftomi\" target=\"_blank\" title=\"Látogass el a SoundCloud-profilomra\"><strong>SoundCloud</strong></a>-profilomon megosztott backing track-ek ízelítőt adnak a basszusgitár-játékomból.<br><br>Email: <a href=\"mailto:groove.eftomi@gmail.com\" target=\"_blank\" title=\"groove.eftomi@gmail.com\">groove (pont) eftomi (kukac) gmail (pont) com</a><br>Telefon: <a href=\"tel:+36302512561\" target=\"_blank\" title=\"+36 30 251 2561\">+36 30 251 huszonöt hatvanegy</a>",
+    "instagram": "<a href=\"https://www.instagram.com/groove.eftomi/\" target=\"_blank\" title=\"Látogass el az Instagram-profilomra\"><i class=\"fab fa-2x fa-instagram trans\"></i></a>",
+    "facebook": "<a href=\"https://www.facebook.com/profile.php?id=61595877148279/\" target=\"_blank\" title=\"Látogass el a Facebook oldalamra\"><i class=\"fab fa-2x fa-facebook-f trans\"></i></a>",
+    "soundcloud": "<a href=\"https://soundcloud.com/groove-eftomi/\" target=\"_blank\" title=\"Látogass el a SoundCloud-profilomra\"><i class=\"fab fa-2x fa-soundcloud trans\"></i></a>",
+    "youtube": "<a href=\"https://www.youtube.com/@groove.eftomi\" target=\"_blank\" title=\"Látogass el a YouTube csatornámra\"><i class=\"fab fa-2x fa-youtube trans\"></i></a>",
+    "email": "<a href=\"mailto:groove.eftomi@gmail.com\" target=\"_blank\" title=\"Küldj emailt: groove.eftomi@gmail.com\"><i class=\"fas fa-2x fa-envelope trans\"></i></a>",
+    "mobile": "<a href=\"tel:+36302512561\" target=\"_blank\" title=\"Hívj fel: +36 30 251 2561\"><i class=\"fas fa-2x fa-phone trans\"></i></a>"
+  },
+"footer": "<small>©2026<i class=\"far fa-eye\"></i>Tervezte és készítette: <a href=\"mailto:tamas.fulop.eftomi@gmail.com\" target=\"_blank\" title=\"Küldj emailt: tamas.fulop.eftomi@gmail.com\">Fülöp Tamás</a></small>"
+}

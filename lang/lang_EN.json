@@ -1,0 +1,36 @@
+{
+  "title": "Tamas Fulop Bassist",
+  "hero": {
+    "name": "Tamas Fulop",
+    "role": "groovy, danceable bass covers",
+    "artist": "groove eftomi"
+  },
+  "home": "Home",
+  "about": {
+    "title": "About Me",
+    "text": "I started playing drums in 2015 and continued until 2020. In 2018 we founded the band <strong>Moonshiners</strong>, which focused on rock and blues covers. Through regular rehearsals, I developed my sense of rhythm and timing, as well as my experience in playing in a band. In 2024 I began playing bass guitar, building on this foundation.<br><br>Here are some selections from our band’s repertoire:",
+    "figcaption01": "Hobo Blues Band - Tobacco Road <small>(cover - rehearsal demo)</small>",
+    "figcaption02": "P.Box - A Zöld A Bíbor És A Fekete <small>(cover - rehearsal demo)</small>"
+  },
+  "portfolio": {
+    "title": "Music Portfolio",
+    "text": "I started learning bass guitar as an autodidact, and since then I have been continuously developing my playing skills. My playing style is mainly built around groovy, danceable songs where the groove and rhythmic foundation of the bass play a particularly important role. I choose and learn songs where the bass supports the music in a creative yet supportive way.<br><br>The purpose of this portfolio is to present my musical direction and my development as a bass player, as well as to help me find a place in the future as a bassist in a band with a similar musical style.",
+    "figcaption01": "Ben E. King – Stand By Me (Bass Cover by eftomi)",
+    "description01": "01Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus maximus, purus quis fringilla porttitor, nunc tortor egestas tortor, et commodo purus dui vel sapien. Pellentesque justo nulla, sagittis eget urna ut, scelerisque egestas nunc. Etiam tristique sapien a pharetra vulputate. Sed eget odio vel tellus scelerisque porttitor id nec tortor. Donec iaculis a nisl non faucibus. Maecenas tincidunt mattis velit, non aliquet dolor venenatis efficitur.",
+    "figcaption02": "James Brown - I Got You (Bass Cover by eftomi)",
+    "description02": "02Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus maximus, purus quis fringilla porttitor, nunc tortor egestas tortor, et commodo purus dui vel sapien. Pellentesque justo nulla, sagittis eget urna ut, scelerisque egestas nunc. Etiam tristique sapien a pharetra vulputate. Sed eget odio vel tellus scelerisque porttitor id nec tortor. Donec iaculis a nisl non faucibus. Maecenas tincidunt mattis velit, non aliquet dolor venenatis efficitur.",
+    "figcaption03": "Queen - Crazy Little Thing Called Love (Bass Cover by eftomi)",
+    "description03": "03Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus maximus, purus quis fringilla porttitor, nunc tortor egestas tortor, et commodo purus dui vel sapien. Pellentesque justo nulla, sagittis eget urna ut, scelerisque egestas nunc. Etiam tristique sapien a pharetra vulputate. Sed eget odio vel tellus scelerisque porttitor id nec tortor. Donec iaculis a nisl non faucibus. Maecenas tincidunt mattis velit, non aliquet dolor venenatis efficitur."
+  },
+  "contact": {
+    "title": "Contacts",
+    "text": "On my <a href=\"https://www.instagram.com/groove.eftomi/\" target=\"_blank\" title=\"Visit my Instagram profile\"><strong>Instagram</strong></a> profile you can find moments related to music-making and bass guitar playing.<br>The backing tracks I share on my <a href=\"https://soundcloud.com/groove-eftomi\" target=\"_blank\" title=\"Visit my SoundCloud profile\"><strong>SoundCloud</strong></a> profile offer a glimpse of my bass guitar playing.<br><br>Email: <a href=\"mailto:groove.eftomi@gmail.com\" target=\"_blank\" title=\"groove.eftomi@gmail.com\">groove (dot) eftomi (at) gmail (dot) com</a><br>Phone: <a href=\"tel:+36302512561\" target=\"_blank\" title=\"+36 30 251 2561\">+36 30 251 twentyfive sixtyone</a>",
+    "instagram": "<a href=\"https://www.instagram.com/groove.eftomi/\" target=\"_blank\" title=\"Visit my Instagram profile\"><i class=\"fab fa-2x fa-instagram trans\"></i></a>",
+    "facebook": "<a href=\"https://www.facebook.com/profile.php?id=61595877148279/\" target=\"_blank\" title=\"Visit my Facebook page\"><i class=\"fab fa-2x fa-facebook-f trans\"></i></a>",
+    "soundcloud": "<a href=\"https://soundcloud.com/groove-eftomi/\" target=\"_blank\" title=\"Visit my SoundCloud profile\"><i class=\"fab fa-2x fa-soundcloud trans\"></i></a>",
+    "youtube": "<a href=\"https://www.youtube.com/@groove.eftomi\" target=\"_blank\" title=\"Visit my YouTube channel\"><i class=\"fab fa-2x fa-youtube trans\"></i></a>",
+    "email": "<a href=\"mailto:groove.eftomi@gmail.com\" target=\"_blank\" title=\"Send me an email at: groove.eftomi@gmail.com\"><i class=\"fas fa-2x fa-envelope trans\"></i></a>",
+    "mobile": "<a href=\"tel:+36302512561\" target=\"_blank\" title=\"Call me at: +36 30 251 2561\"><i class=\"fas fa-2x fa-phone trans\"></i></a>"
+  },
+  "footer": "<small>©2026<i class=\"far fa-eye\"></i>Designed & built by <a href=\"mailto:tamas.fulop.eftomi@gmail.com\" target=\"_blank\" title=\"Send me an email at: tamas.fulop.eftomi@gmail.com\">Tamas Fulop</a></small>"
+}

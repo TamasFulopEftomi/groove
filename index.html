@@ -1,19 +1,197 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="hu">
 
 <head>
+  <title data-i18n="title">Tamas Fulop &middot Bassist</title>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">
+  <link rel="icon" type="image/png" href="assets/bass_clef.png">
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Mulish&family=Raleway&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="main.css">
-  <title>Groove</title>
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "fd9bedb090664c7490a2f4e42db15526"}'></script>
 </head>
 
 <body>
-  <div id="container">
-    <h1>Hamarosan / Soon / Bald...</h1>
-    <img src="assets/groove.png">
+  <nav class="navbar fixed-top navbar-light">
+    <div class="container-fluid">
+      <button id="openCloseBtn" class="navbar-toggler menu_button" type="button" role="button" data-bs-toggle="collapse"
+        data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
+        aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav" id="nav_link_background">
+          <div class="nav-link">
+            <button id="lang_HU"><img src="assets/HU_flag.png" alt="HU Flag"></button>
+            <button id="lang_EN"><img src="assets/UK_flag.png" alt="UK Flag"></button>
+          </div>
+          <a class="nav-link" href="#" data-i18n="home">Home</a>
+          <a class="nav-link" href="#about" data-i18n="about.title">About Me</a>
+          <a class="nav-link" href="#portfolio" data-i18n="portfolio.title">Portfolio</a>
+          <a class="nav-link" href="#contact" data-i18n="contact.title">Contacts</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <header id="hero">
+    <div id="hero_title_wrapper">
+      <div id="hero_title">
+        <h1 id="hero_name" data-i18n="hero.name">Tamas Fulop</h1>
+        <span id="hero_role" data-i18n="hero.role">Bass Guitarist</span>
+        <span id="hero_artist" data-i18n="hero.artist">groove eftomi</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+
+    <section class="container-fluid" id="about">
+      <h2 data-i18n="about.title">About Me</h2>
+      <div class="row justify-content-md-center">
+        <div class="col-lg-10 col-xl-8">
+          <p class="justify" data-i18n="about.text"></p>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-lg-10">
+          <div class="row" id="about_media_wrapper">
+            <div class="col-md-6">
+              <article id="about_blurb">
+                <figure class="about_media">
+                  <img src="assets/Moonshiners01.jpg" alt="Moonshiners" />
+                  <figcaption data-i18n="about.figcaption01"></figcaption>
+                </figure>
+                <div>
+                  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
+                    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A852976372&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
+                </div>
+              </article>
+            </div>
+            <div class="col-md-6">
+              <article>
+                <figure class="about_media">
+                  <img src="assets/Moonshiners02.jpg" alt="Moonshiners" />
+                  <figcaption data-i18n="about.figcaption02"></figcaption>
+                </figure>
+                <div>
+                  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
+                    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A852976405&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
+                </div>
+              </article>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="gap_wrapper">
+      <div class="gap">
+      </div>
+    </div>
+
+    <section class="container-fluid" id="portfolio">
+      <h2 data-i18n="portfolio.title">Portfolio</h2>
+      <div class="row justify-content-center">
+        <div class="col-lg-10 col-xl-8">
+          <div class="justify" data-i18n="portfolio.text"></div>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-lg-10">
+          <div class="row" id="portfolio_media_wrapper">
+
+            <article class="portfolio_blurb">
+              <figure>
+                <div class="video_wrapper">
+                  <iframe src="https://www.youtube.com/embed/dLbo7Hm6ivk?list=RDdLbo7Hm6ivk"
+                    title="Silent Night (Christmas Piano Cover)" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                  </iframe>
+                </div>
+                <figcaption data-i18n="portfolio.figcaption01"></figcaption>
+              </figure>
+              <div class="justify" data-i18n="portfolio.description01"></div>
+            </article>
+
+            <article class="portfolio_blurb">
+              <figure>
+                <div class="video_wrapper">
+                  <iframe src="https://www.youtube.com/embed/dLbo7Hm6ivk?list=RDdLbo7Hm6ivk"
+                    title="Silent Night (Christmas Piano Cover)" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                  </iframe>
+                </div>
+                <figcaption data-i18n="portfolio.figcaption02"></figcaption>
+              </figure>
+              <div class="justify" data-i18n="portfolio.description02"></div>
+            </article>
+
+            <article>
+              <figure>
+                <div class="video_wrapper">
+                  <iframe src="https://www.youtube.com/embed/dLbo7Hm6ivk?list=RDdLbo7Hm6ivk"
+                    title="Silent Night (Christmas Piano Cover)" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                  </iframe>
+                </div>
+                <figcaption data-i18n="portfolio.figcaption03"></figcaption>
+              </figure>
+              <div class="justify" data-i18n="portfolio.description03"></div>
+            </article>
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+    <div class="gap_wrapper">
+      <div class="gap">
+      </div>
+    </div>
+
+    <section class="container-fluid" id="contact">
+      <h2 data-i18n="contact.title">Contacts</h2>
+      <div class="row justify-content-center">
+        <div class="col-auto">
+          <p id="p_contact" data-i18n="contact.text">Contact</p>
+        </div>
+        <div>
+          <ul id="icons">
+            <li data-i18n="contact.instagram"></li>
+            <!-- li data-i18n="contact.facebook"></li -->
+            <li data-i18n="contact.soundcloud"></li>
+            <!-- li data-i18n="contact.youtube"></li -->
+            <li data-i18n="contact.email"></li>
+            <li data-i18n="contact.mobile"></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <div id="footer_wrapper">
+      <p id="p_footer" data-i18n="footer"></p><span></span>
+    </div>
+  </footer>
+
+  <div class="gap_wrapper">
+    <div id="last_gap">
+    </div>
   </div>
+
+  <script src="main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
