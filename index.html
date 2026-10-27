@@ -5,7 +5,6 @@
   <title data-i18n="title">Tamas Fulop &middot Bassist</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">
   <link rel="icon" type="image/png" href="assets/bass_clef.png">
   <link rel="stylesheet"
@@ -19,7 +18,7 @@
 <body>
   <nav class="navbar fixed-top navbar-light">
     <div class="container-fluid">
-      <button id="openCloseBtn" class="navbar-toggler menu_button" type="button" role="button" data-bs-toggle="collapse"
+      <button id="openCloseBtn" class="navbar-toggler menu_button" type="button" data-bs-toggle="collapse"
         data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
         aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -68,7 +67,7 @@
                   <figcaption data-i18n="about.figcaption01"></figcaption>
                 </figure>
                 <div>
-                  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
+                  <iframe width="100%" height="166" allow="autoplay"
                     src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A852976372&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
                 </div>
               </article>
@@ -80,7 +79,7 @@
                   <figcaption data-i18n="about.figcaption02"></figcaption>
                 </figure>
                 <div>
-                  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
+                  <iframe width="100%" height="166" allow="autoplay"
                     src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A852976405&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
                 </div>
               </article>
@@ -103,50 +102,54 @@
         </div>
       </div>
       <div class="row justify-content-center">
-        <div class="col-lg-10">
+        <div class="col-lg-10 col-xl-8">
           <div class="row" id="portfolio_media_wrapper">
 
-            <article class="portfolio_blurb">
-              <figure>
-                <div class="video_wrapper">
-                  <iframe src="https://www.youtube.com/embed/dLbo7Hm6ivk?list=RDdLbo7Hm6ivk"
-                    title="Silent Night (Christmas Piano Cover)" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-                  </iframe>
-                </div>
-                <figcaption data-i18n="portfolio.figcaption01"></figcaption>
-              </figure>
+            <figure class="portfolio_item">
+              <div class="drive_player">
+                <iframe 
+                  src="https://drive.google.com/file/d/1yosYcc_8gBNwtiVlIHEdX8xUNhriWEBB/preview"
+                  title="Queen - Crazy Little Thing Called Love">
+                </iframe>
+              </div>
+              <figcaption data-i18n="portfolio.figcaption01"></figcaption>
               <div class="justify" data-i18n="portfolio.description01"></div>
-            </article>
+            </figure>
 
-            <article class="portfolio_blurb">
-              <figure>
-                <div class="video_wrapper">
-                  <iframe src="https://www.youtube.com/embed/dLbo7Hm6ivk?list=RDdLbo7Hm6ivk"
-                    title="Silent Night (Christmas Piano Cover)" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-                  </iframe>
-                </div>
-                <figcaption data-i18n="portfolio.figcaption02"></figcaption>
-              </figure>
+            <figure class="portfolio_item">
+              <div class="drive_player">
+                <iframe 
+                  src="https://drive.google.com/file/d/1T9BivKjyQxkOYUmVXWcm6fIjUTMWL-Mp/preview"
+                  title="James Brown - I Got You (I Feel Good)">
+                </iframe>
+              </div>
+              <figcaption data-i18n="portfolio.figcaption02"></figcaption>
               <div class="justify" data-i18n="portfolio.description02"></div>
-            </article>
+            </figure>
 
-            <article>
-              <figure>
-                <div class="video_wrapper">
-                  <iframe src="https://www.youtube.com/embed/dLbo7Hm6ivk?list=RDdLbo7Hm6ivk"
-                    title="Silent Night (Christmas Piano Cover)" frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-                  </iframe>
-                </div>
-                <figcaption data-i18n="portfolio.figcaption03"></figcaption>
-              </figure>
+            <figure class="portfolio_item">
+              <div class="drive_player">
+                <iframe 
+                  src="https://drive.google.com/file/d/1JWLxopwK-FDF3NOYlsNozjrEuRpEq2rl/preview"
+                  title="Chuck Berry - Johnny B. Goode">
+                </iframe>
+              </div>
+              <figcaption data-i18n="portfolio.figcaption03"></figcaption>
               <div class="justify" data-i18n="portfolio.description03"></div>
-            </article>
+            </figure>
+
+            <!-- figure>
+              <div class="video_wrapper">
+                <iframe src="https://www.youtube.com/embed/dLbo7Hm6ivk?list=RDdLbo7Hm6ivk"
+                  title="Silent Night (Christmas Piano Cover)" frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+                </iframe>
+              </div>
+              <figcaption data-i18n="portfolio.figcaption03"></figcaption>
+              <div class="justify" data-i18n="portfolio.description03"></div>
+            </figure -->
+
           </div>
         </div>
       </div>
@@ -181,7 +184,7 @@
 
   <footer>
     <div id="footer_wrapper">
-      <p id="p_footer" data-i18n="footer"></p><span></span>
+      <p id="p_footer" data-i18n="footer"></p>
     </div>
   </footer>
 
