@@ -306,6 +306,10 @@ button {
   display: none;
 }
 
+#icons {
+  padding-left: 0;
+}
+
 #icons li {
   display: inline;
 }
@@ -324,10 +328,6 @@ button {
 
   #p_contact {
     display: block;
-  }
-
-  #icons {
-    padding-top: 2rem;
   }
 }
 
