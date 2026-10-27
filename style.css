@@ -151,7 +151,7 @@ button:focus-visible {
   width: fit-content;
   font-style: italic;
   margin: 0.5rem auto 0;
-  padding-left: 10rem;
+  padding-left: 8rem;
 }
 
 @media (min-width: 768px) {
