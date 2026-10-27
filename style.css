@@ -49,7 +49,7 @@ a {
 }
 
 .gap_wrapper {
-  background: url('assets/katarina_stock.jpg') no-repeat 40% center/cover fixed;
+  background: url('assets/bass_stock.jpg') no-repeat 40% center/cover fixed;
 }
 
 .gap {
@@ -105,7 +105,7 @@ button:focus-visible {
 /* ==== HEADER STYLES ==== */
 
 #hero {
-  background: url('assets/katarina_stock.jpg') no-repeat 40% center/cover fixed;
+  background: url('assets/bass_stock.jpg') no-repeat 40% center/cover fixed;
   display: table;
   text-align: center;
   height: 100vh;
