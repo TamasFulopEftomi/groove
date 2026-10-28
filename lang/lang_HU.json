@@ -8,9 +8,10 @@
   "home": "Nyitólap",
   "about": {
     "title": "Magamról",
-    "text": "2015-ben kezdtem el dobolni, és 2020-ig játszottam a hangszeren. 2018-ban megalapítottuk a <strong>Moonshiners</strong> zenekart, amely rock- és bluesfeldolgozásokra fókuszált. A rendszeres próbák során fejlődött a ritmus- és tempóérzékem, valamint a zenekari játékban szerzett gyakorlatom. 2024-ben kezdtem el basszusgitározni, erre az alapra építve.<br><br>Részletek a zenekarunk repertoárjából:",
+    "text01": "2015-ben kezdtem el dobolni, és 2020-ig játszottam a hangszeren. 2018-ban megalapítottuk a <strong>Moonshiners</strong> zenekart, amely rock- és bluesfeldolgozásokra fókuszált. A rendszeres próbák során fejlődött a ritmus- és tempóérzékem, valamint a zenekari játékban szerzett gyakorlatom. 2024-ben kezdtem el basszusgitározni, erre az alapra építve.<br><br>Részletek a zenekarunk repertoárjából:",
     "figcaption01": "Hobo Blues Band - Tobacco Road <small>(Cover - próbatermi demó)</small>",
-    "figcaption02": "P.Box - A zöld a bíbor és a fekete <small>(Cover - próbatermi demó)</small>"
+    "figcaption02": "P.Box - A zöld a bíbor és a fekete <small>(Cover - próbatermi demó)</small>",
+    "text02": "További <a href=\"https://soundcloud.com/moonshinershungary\" target=\"_blank\" title=\"Hallgasd meg a Moonshiners zenekar demófelvételeit\">demófelvételek</a> a feloszlott <strong>Moonshiners</strong> zenekar repertoárjából."
   },
 "portfolio": {
     "title": "Zenei portfólió",

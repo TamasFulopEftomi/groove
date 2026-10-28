@@ -8,9 +8,10 @@
   "home": "Home",
   "about": {
     "title": "About Me",
-    "text": "I started playing drums in 2015 and continued until 2020. In 2018 we founded the band <strong>Moonshiners</strong>, which focused on rock and blues covers. Through regular rehearsals, I developed my sense of rhythm and timing, as well as my experience in playing in a band. In 2024 I began playing bass guitar, building on this foundation.<br><br>Here are some selections from our band’s repertoire:",
+    "text01": "I started playing drums in 2015 and continued until 2020. In 2018 we founded the band <strong>Moonshiners</strong>, which focused on rock and blues covers. Through regular rehearsals, I developed my sense of rhythm and timing, as well as my experience in playing in a band. In 2024 I began playing bass guitar, building on this foundation.<br><br>Here are some selections from our band’s repertoire:",
     "figcaption01": "Hobo Blues Band - Tobacco Road <small>(Cover - rehearsal demo)</small>",
-    "figcaption02": "P.Box - A zöld a bíbor és a fekete <small>(Cover - rehearsal demo)</small>"
+    "figcaption02": "P.Box - A zöld a bíbor és a fekete <small>(Cover - rehearsal demo)</small>",
+    "text02": "More <a href=\"https://soundcloud.com/moonshinershungary\" target=\"_blank\" title=\"Listen to Moonshiners' demo recordings\">demo recordings</a> from the repertoire of the now-disbanded <strong>Moonshiners</strong> band."
   },
   "portfolio": {
     "title": "Music Portfolio",
